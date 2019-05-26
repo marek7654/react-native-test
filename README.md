@@ -16,7 +16,9 @@
 
 ## How to run app?
 **npm install**
+
 **npm start**
+
 
 ## TO DO
 I have trouble with refresh AllUsersScreen (home screen) after user action (add, edit, delete).
